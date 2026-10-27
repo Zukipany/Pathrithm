@@ -5,7 +5,8 @@ Watch classic pathfinding algorithms search **real city streets**. Pick two poin
 > [!NOTE]
 > **The source code of this project is private.** This repository is its public showcase: the
 > README, screenshots and every source file with its types and function signatures, but none of the
-> code inside them. If you'd like a demo or to talk about the project, open an issue.
+> code inside them. For a demo or access to the source code, email me at
+> [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 ![Dijkstra's search wave spreading through central Munich](docs/screenshots/dijkstra-search.jpg)
 
